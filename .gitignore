@@ -63,3 +63,7 @@ bitchat/bitchat
 tests/blockchain_tests
 *automoc.cpp
 src/gui/sexc
+keyhotee/Keyhotee.app/
+keyhotee/Keyhotee.qrc.depends
+keyhotee/qrc_Keyhotee.cpp
+tests/timekeeper
